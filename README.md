@@ -1,27 +1,74 @@
-<div align="center">
-    <h3 style="text-align: center">Reach me on <a href="https://www.facebook.com/profile.php?id=100011088817173">Facebook</a></h3>
-    <img width="144" src="https://camo.githubusercontent.com/5f158e469fe8a73a929e69c03752cd29c1d77ebd5f66cf6f3709b9b82c12a191/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64696d6d65642e676966"/>
-</div>
-<hr height="1">
+<style>
+	code {
+		font-size: 12px;
+		text-align: center;
+		display:flex;
+		justify-content: center;
+		align-items: center;
+		gap: 6px;
+		color: #fff;
+		padding: 2px 4px;
+	}
+</style>
 
 <div align="center">
+	<h3 style="text-align: center">I'm Quang Hiep, a full-time Web developer</h3>
+	<img width="128" src="https://camo.githubusercontent.com/5f158e469fe8a73a929e69c03752cd29c1d77ebd5f66cf6f3709b9b82c12a191/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64696d6d65642e676966"/>
+</div>
+
+<br>
+
+##
+
+<br>
+
+<div align="center" >
   <h3 style="text-align: center">Technologies stack</h3>
-  <div align="center">
-  	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-  	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-  	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-  	<code><img width="32" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
-   	<code><img width="24" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code>
-  	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-   	<code><img width="24" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
-  	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code>
-  	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-  	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
-  	<code><img width="32" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/></code>
-  	<code><img width="32" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ"/></code>
-  	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/></code>
-  	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
+  <div align="center"style="display: flex; justify-content: center; align-items: center; gap: 4px; flex-wrap: wrap; max-width: 800px; margin: 0 auto;">
+  	<code><img width="16" src="./images/javascript.svg" alt="JavaScript" title="JavaScript"/> Javascript</code>
+  	<code><img width="16" src="./images/typescript.svg" alt="TypeScript" title="TypeScript"/> Typescript</code>
+  	<code><img width="16" src="./images/php.svg" alt="PHP" title="PHP"/> PHP</code>
+  	<code><img width="16" src="./images/react.svg" alt="React" title="React"/> React.js</code>
+  	<code><img width="16" src="./images/nextdotjs.svg" alt="Next.js" title="Next.js"/>Next.js</code>
+   	<code><img width="16" src="./images/redux.svg" alt="Redux" title="Redux"/>Redux</code>
+  	<code><img width="16" src="./images/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS"/>Tailwindcss</code>
+  	<code><img width="16" src="./images/shadcnui.svg" alt="Shadcn UI" title="Shadcn UI"/>Shadcn UI</code>
+  	<code><img width="16" src="./images/mui.svg" alt="Material UI" title="Material UI"/>Material UI</code>
+  	<code><img width="16" src="./images/radixui.svg" alt="Radix UI" title="Radix UI"/>Radix UI</code>
+  	<code style=""><img width="16" src="./images/nodedotjs.svg" alt="Node.js" title="Node.js"/> Node.js</code>
+  	<code><img width="16" src="./images/express.svg" alt="Express" title="Express"/>Express.js</code>
+  	<code><img width="16" src="./images/nestjs.svg" alt="Nest.js" title="Nest.js"/>Nest.js</code>
+  	<code><img width="16" src="./images/laravel.svg" alt="Laravel" title="Laravel"/> Laravel</code>
+  	<code><img width="16" src="./images/rabbitmq.svg" alt="RabbitMQ" title="RabbitMQ"/>RabbitMQ</code>
+  	<code><img width="16" src="./images/redis.svg" alt="Redis" title="redis"/>Redis</code>
+  	<code><img width="16" src="./images/mongodb.svg" alt="MongoDB" title="mongoDB"/>MongoDB</code>
+  	<code><img width="16" src="./images/amazonaws.svg" alt="AWS" title="mongoDB"/>AWS</code>
+  	<code><img width="16" src="./images/googlecloud.svg" alt="Google Cloud" title="Google Cloud"/>Google Cloud</code>
   </div>
 </div>
 
+<br>
 
+##
+
+<br>
+
+<h3 style="text-align: center">Contact with me </h3>
+
+<div align="center">
+	<a href="https://github.com/quanghiep03198" target="_blank">
+		<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://twitter.com/quanghiep03198" target="_blank">
+		<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://www.linkedin.com/in/hi%E1%BB%87p-quang-407b81210/" target="_blank">
+		<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://www.facebook.com/profile.php?id=100011088817173" target="_blank">
+		<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://www.instagram.com/supam4n031/" target="_blank">
+		<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+	</a>  
+</div>

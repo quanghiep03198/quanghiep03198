@@ -4,7 +4,7 @@
 
 - I’m currently learning **Laravel, Alpine.js** ...
 - Contact to me: **quanghiep03198@gmail.com**
-- React me on **[Facebook](https://www.facebook.com/profile.php?id=100011088817173)**
+- Reach me on **[Facebook](https://www.facebook.com/profile.php?id=100011088817173)**
 
 ##
 

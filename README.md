@@ -1,18 +1,17 @@
 <h2 align="center">Hi guys 👻</h2>
 
-<h3 align="left">About me <img width="36" src="https://camo.githubusercontent.com/0df1c27a194a654fe3b03c9dfe318fb0c9a62e994ed1042e611408aa3f4fa3f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"/></h3>
+<h3 align="left">About me <img width="36" src="https://camo.githubusercontent.com/99110c0b2dfc766d40af49a0a15b81297c9f7995915a64966d00c585714ab9ee/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"/></h3>
 
-*I'm a passionate learner with a keen interest in JavaScript. I enjoy exploring the depths of this versatile language, from building interactive web applications to understanding its underlying concepts. My enthusiasm for JavaScript drives me to continuously improve my skills and stay updated with the latest trends in the ever-evolving world of web development.*
+_I'm a passionate learner with a keen interest in JavaScript. I enjoy exploring the depths of this versatile language, from building interactive web applications to understanding its underlying concepts. My enthusiasm for JavaScript drives me to continuously improve my skills and stay updated with the latest trends in the ever-evolving world of web development._
 
-
-- Contact to me: **quanghiep03198@gmail.com**
-- Reach me on **[Facebook](https://www.facebook.com/profile.php?id=100011088817173)**
+-  Contact to me: **quanghiep03198@gmail.com**
+-  Reach me on **[Facebook](https://www.facebook.com/profile.php?id=100011088817173)**
 
 ##
 
 <h3 align="left">
   Technologies stack 
-  <img width="36" src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"/>
+  <img width="36" src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"/>
 </h3>
 
 <div align="left">
@@ -70,12 +69,11 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-
 </div>
 
 ##
 
-<h3 align="left">Statistics  <img width="36" src="https://camo.githubusercontent.com/5f158e469fe8a73a929e69c03752cd29c1d77ebd5f66cf6f3709b9b82c12a191/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64696d6d65642e676966"/></h3>
+<h3 align="left">Statistics  <img width="36" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"/></h3>
 <img
   align="left"
   src="https://github-readme-stats.vercel.app/api/top-langs?username=quanghiep03198&show_icons=true&locale=en&layout=compact"

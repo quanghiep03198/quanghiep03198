@@ -1,0 +1,318 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.activeIconPack": "nest",
+  "material-icon-theme.files.associations": {
+    "*.store.ts": "redux-store",
+    "*.config.js": "jsconfig",
+    "*.config.cjs": "jsconfig",
+    "*.config.ts": "tsconfig",
+    "*.config.json": "jsconfig"
+  },
+  "material-icon-theme.folders.customClones": [
+    {
+      "name": "Infrastructure",
+      "base": "base",
+      "color": "gray-500",
+      "lightColor": "gray-500",
+      "folderNames": ["infrastructure"]
+    },
+    {
+      "name": "Message Broker",
+      "base": "queue",
+      "color": "orange-500",
+      "lightColor": "orange-500",
+      "folderNames": ["kafka", "rabbitmq"]
+    },
+    {
+      "name": "Transformers",
+      "base": "pipe",
+      "color": "blue-500",
+      "lightColor": "gray-600",
+      "folderNames": ["transformers"]
+    },
+    {
+      "name": "Data Transfer Object",
+      "base": "class",
+      "color": "purple-400",
+      "lightColor": "purple-500",
+      "folderNames": ["dto"]
+    },
+    {
+      "name": "Database Migrations",
+      "base": "generator",
+      "color": "pink-300",
+      "lightColor": "pink-400",
+      "folderNames": ["migrations", "migration"]
+    },
+
+    {
+      "name": "User",
+      "base": "admin",
+      "color": "cyan-600",
+      "lightColor": "cyan-700",
+      "folderNames": ["user"]
+    },
+    {
+      "name": "Interceptor",
+      "base": "middleware",
+      "color": "pink-300",
+      "lightColor": "orange-400",
+      "folderNames": ["interceptors"]
+    },
+    {
+      "name": "Stratey",
+      "base": "custom",
+      "color": "orange-400",
+      "lightColor": "orange-500",
+      "folderNames": ["strategies", "Strategy", "strategy"]
+    },
+    {
+      "name": "Exception Filter",
+      "base": "error",
+      "color": "orange-500",
+      "lightColor": "orange-600",
+      "folderNames": ["filters"]
+    },
+    {
+      "name": "Entity",
+      "base": "class",
+      "color": "red-500",
+      "lightColor": "red-600",
+      "folderNames": ["entity", "entities"]
+    },
+    {
+      "name": "Composable",
+      "base": "hook",
+      "color": "light-green-500",
+      "lightColor": "light-green-600",
+      "folderNames": ["composables", "_composables"]
+    },
+    {
+      "name": "Repository",
+      "base": "resource",
+      "color": "light-blue-600",
+      "lightColor": "light-blue-600",
+      "folderNames": ["repositories", "Repositories"]
+    },
+    {
+      "name": "Trait",
+      "base": "class",
+      "color": "green-500",
+      "lightColor": "green-600",
+      "folderNames": ["traits", "Traits"]
+    },
+    {
+      "name": "Feature",
+      "base": "plugin",
+      "color": "green-500",
+      "lightColor": "green-600",
+      "folderNames": ["features"]
+    }
+  ],
+  "editor.fontFamily": "Jetbrains Mono",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 1.75,
+  "editor.codeLensFontFamily": "JetBrains Mono",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 3,
+  "explorer.compactFolders": false,
+  "console-ninja.featureSet": "Community",
+  "css.lint.unknownAtRules": "ignore",
+  "editor.accessibilitySupport": "off",
+
+  "editor.mouseWheelZoom": true,
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.experimental.classRegex": [
+    "tw`([^`]*)",
+    "tw\\.[^`]+`([^`]*)`",
+    "tw\\(.*?\\).*?`([^`]*)"
+  ],
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "material-icon-theme.files.customClones": [
+    {
+      "name": "Nest Repository",
+      "base": "nest",
+      "color": "orange-500",
+      "lightColor": "cyan-600",
+      "fileExtensions": ["repository.ts", "repository.js"]
+    },
+    {
+      "name": "Nest Data Transfer Object",
+      "base": "nest",
+      "color": "purple-500",
+      "lightColor": "purple-600",
+      "fileExtensions": ["dto.ts", "dto.js"]
+    }
+  ],
+  "githubPullRequests.createOnPublishBranch": "never",
+  "material-icon-theme.folders.associations": {
+    "features": "Module",
+    "components": "React-Components",
+    "stores": "Redux-store",
+    "store": "Redux-store",
+    "subscribers": "event"
+  },
+  "extensions.ignoreRecommendations": true,
+  "mssql.connections": [
+    {
+      "server": "10.30.0.18",
+      "database": "",
+      "authenticationType": "SqlLogin",
+      "user": "sa",
+      "password": "",
+      "emptyPasswordInput": false,
+      "savePassword": true,
+      "encrypt": "Mandatory",
+      "trustServerCertificate": true,
+      "connectTimeout": 15,
+      "commandTimeout": 30,
+      "applicationName": "vscode-mssql",
+      "id": "677AA25F-5CD9-4FAC-BA56-6BA211610F98",
+      "groupId": "F7A2DBEC-2671-4F06-864B-9F3D0F6C430A"
+    },
+    {
+      "authenticationType": "SqlLogin",
+      "connectTimeout": 15,
+      "applicationName": "vscode-mssql",
+      "profileName": "10.30.201.202",
+      "server": "10.30.201.202",
+      "user": "sa",
+      "password": "",
+      "savePassword": true,
+      "database": "",
+      "trustServerCertificate": true,
+      "id": "87197D93-69EF-4956-8A42-60797B6E5749",
+      "groupId": "F7A2DBEC-2671-4F06-864B-9F3D0F6C430A"
+    },
+    {
+      "server": "10.50.5.1",
+      "database": "DV_DATA_LAKE",
+      "authenticationType": "SqlLogin",
+      "user": "sa",
+      "emptyPasswordInput": false,
+      "savePassword": true,
+      "encrypt": "Mandatory",
+      "trustServerCertificate": true,
+      "connectTimeout": 15,
+      "commandTimeout": 30,
+      "applicationName": "vscode-mssql",
+      "displayName": "10.30.80.2, DV_DATA_LAKE (sa)",
+      "password": "",
+      "profileName": "10.50.5.1",
+      "id": "3BE6C926-55E8-4DFD-AF39-8FA222146A44",
+      "groupId": "F7A2DBEC-2671-4F06-864B-9F3D0F6C430A"
+    },
+    {
+      "authenticationType": "SqlLogin",
+      "connectTimeout": 15,
+      "applicationName": "vscode-mssql",
+      "profileName": "10.30.80.2",
+      "server": "10.30.80.2",
+      "user": "sa",
+      "trustServerCertificate": true,
+      "password": "",
+      "savePassword": true,
+      "database": "",
+      "displayName": "10.30.80.2",
+      "id": "C19E6D0D-A7AC-4A9A-AA1C-F6747EDC7DB2",
+      "groupId": "F7A2DBEC-2671-4F06-864B-9F3D0F6C430A"
+    },
+    {
+      "authenticationType": "SqlLogin",
+      "connectTimeout": 30,
+      "applicationName": "vscode-mssql",
+      "profileName": "10.30.0.21",
+      "user": "sa",
+      "password": "",
+      "savePassword": true,
+      "database": "",
+      "server": "10.30.0.21",
+      "trustServerCertificate": true,
+      "id": "58DBA3ED-4742-4F6D-8BED-572DFF61BE1C",
+      "groupId": "F7A2DBEC-2671-4F06-864B-9F3D0F6C430A"
+    }
+  ],
+  "security.workspace.trust.untrustedFiles": "open",
+  "material-icon-theme.folders.color": "#6273a4",
+
+  "workbench.colorTheme": "Dracula Theme",
+
+  "mssql.objectExplorer.groupBySchema": false,
+  "github.copilot.advanced": {
+    "authProvider": "github"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.guides.bracketPairs": true,
+  "mssql.enableRichExperiences": true,
+  "chat.editing.alwaysSaveWithGeneratedChanges": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "debug.terminal.clearBeforeReusing": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontWeightBold": "bold",
+  "gitlens.views.scm.grouped.views": {
+    "commits": false,
+    "branches": false,
+    "remotes": false,
+    "stashes": false,
+    "tags": false,
+    "worktrees": false,
+    "contributors": false,
+    "repositories": false,
+    "searchAndCompare": false,
+    "launchpad": false
+  },
+  "explorer.confirmDelete": false,
+  "mssql.openQueryResultsInTabByDefaultDoNotShowPrompt": true,
+  "explorer.confirmPasteNative": false,
+  "python.createEnvironment.trigger": "off",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "files.associations": {
+    "*.qss": "qss"
+  },
+  "[css]": {
+    "editor.suggest.insertMode": "replace"
+  },
+  "window.newWindowProfile": "Default",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "terminal.integrated.env.windows": {},
+  "mssql.connectionGroups": [
+    {
+      "name": "ROOT",
+      "id": "F7A2DBEC-2671-4F06-864B-9F3D0F6C430A"
+    }
+  ],
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "Windows PowerShell": {
+      "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+    }
+  },
+  "terminal.integrated.fontLigatures.enabled": true
+  // "workbench.settings.openDefaultKeybindings": true
+}

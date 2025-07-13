@@ -92,6 +92,6 @@ _I'm a passionate learner with a keen interest in JavaScript. I enjoy exploring 
 <h3 align="left">Statistics  <img width="36" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"/></h3>
 <img
   align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=quanghiep03198&show_icons=true&locale=en&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=quanghiep03198&show_icons=true&locale=en&layout=donut&theme=transparent"
   alt="quanghiep03198"
 />

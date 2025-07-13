@@ -54,7 +54,7 @@ _I'm a passionate learner with a keen interest in JavaScript. I enjoy exploring 
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-![PyQt/PySide](https://img.shields.io/badge/pyqt\/pyside-%232cde85?style=for-the-badge)
+![PyQt](https://img.shields.io/badge/PyQt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 <h4>Back-end</h4>
 

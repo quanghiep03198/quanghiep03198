@@ -1,17 +1,17 @@
 <h2 align="center">Hi guys 👻</h2>
 
-<h3 align="left">About me <img width="36" src="https://camo.githubusercontent.com/99110c0b2dfc766d40af49a0a15b81297c9f7995915a64966d00c585714ab9ee/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"/></h3>
+<h3 align="left">About me <img width="36" src="https://camo.githubusercontent.com/e4d9a2b54030bfed2b48b2c0ccd6abefd908e62bfef861861c5fbdea99c3b0da/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"/></h3>
 
 _I'm a passionate learner with a keen interest in JavaScript. I enjoy exploring the depths of this versatile language, from building interactive web applications to understanding its underlying concepts. My enthusiasm for JavaScript drives me to continuously improve my skills and stay updated with the latest trends in the ever-evolving world of web development._
 
--  Contact to me: **quanghiep03198@gmail.com**
--  Reach me on **[Facebook](https://www.facebook.com/profile.php?id=100011088817173)**
+- Contact to me: **quanghiep03198@gmail.com**
+- Reach me on **[Facebook](https://www.facebook.com/profile.php?id=100011088817173)**
 
 ##
 
 <h3 align="left">
   Technologies stack 
-  <img width="36" src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"/>
+  <img width="36" src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"/>
 </h3>
 
 <div align="left">
@@ -34,7 +34,7 @@ _I'm a passionate learner with a keen interest in JavaScript. I enjoy exploring 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-  <h4>Front-end</h4>
+<h4>Front-end</h4>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -71,8 +71,6 @@ _I'm a passionate learner with a keen interest in JavaScript. I enjoy exploring 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![PM2](https://img.shields.io/badge/pm2-%2340029c?style=for-the-badge&logo=pm2&logoColor=%23fafafa)
 
 <h4>Others</h4>
 
@@ -90,8 +88,5 @@ _I'm a passionate learner with a keen interest in JavaScript. I enjoy exploring 
 ##
 
 <h3 align="left">Statistics  <img width="36" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"/></h3>
-<img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=quanghiep03198&show_icons=true&locale=en&layout=donut&theme=transparent"
-  alt="quanghiep03198"
-/>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=quanghiep03198&layout=compact&theme=github_dark)

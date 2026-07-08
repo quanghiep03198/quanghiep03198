@@ -4,6 +4,8 @@
 
 _I'm a passionate learner with a keen interest in JavaScript. I enjoy exploring the depths of this versatile language, from building interactive web applications to understanding its underlying concepts. My enthusiasm for JavaScript drives me to continuously improve my skills and stay updated with the latest trends in the ever-evolving world of web development._
 
+![Meme](https://media1.tenor.com/m/VQ3tH4ISh7AAAAAC/tc.gif)
+
 - Contact to me: **quanghiep03198@gmail.com**
 - Reach me on **[Facebook](https://www.facebook.com/profile.php?id=100011088817173)**
 
